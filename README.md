@@ -1,6 +1,7 @@
 # Hi, I'm Felippe! :D
 
-Backend developer... 	:computer: :man_student:	
+Backend developer... 	:computer: :man_student:
+<br/>
 Lover of Javascript and Java 	:hearts:
 
 
