@@ -1,8 +1,8 @@
 # Hi, I'm Felippe! :D
 
-Backend developer... 	:computer: :man_student:
+Front end developer... 	:computer: :man_student:
 <br/>
-Lover of Javascript and Java 	:hearts:
+Lover of Javascript 	:hearts:
 
 
 ### About me
