@@ -11,6 +11,4 @@ Lover of Javascript and Java 	:hearts:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felippe-gon%C3%A7alves/)](https://www.linkedin.com/in/felippe-gon%C3%A7alves/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippepg&theme=tokyonight)
-
 
