@@ -1,8 +1,8 @@
 # Hi, I'm Felippe! :D
 
-Web developer... 	:computer: :man_student:
+Software Development... 	:computer: :man_student:
 <br/>
-Lover of Javascript and Java 	:hearts:
+Lover of Java 	:hearts:
 
 
 ### About me
