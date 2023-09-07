@@ -2,7 +2,7 @@
 
 Software Development... 	:computer: :man_student:
 <br/>
-Lover of Java 	:hearts:
+Lover of Back end Frontend	:hearts:
 
 
 ### About me
